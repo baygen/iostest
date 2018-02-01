@@ -2,6 +2,7 @@
 
 # expo
 .expo/
+/metro-cache-65d6ff9e4639ca20f0af63c9c63a2fe59ad6190f
 
 # dependencies
 /node_modules

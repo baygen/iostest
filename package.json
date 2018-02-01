@@ -1,7 +1,7 @@
 {
   "name": "AwesomeProject",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "devDependencies": {
     "react-native-scripts": "1.11.1",
     "jest-expo": "25.0.0",
